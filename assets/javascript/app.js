@@ -3,6 +3,7 @@
 
 $(document).ready(function(){
     //create start game
+    alert("Let's play Shrek Trivia");
   
     //create a timer for Time remaining
     var number = 30;
