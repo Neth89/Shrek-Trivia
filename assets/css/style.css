@@ -1,0 +1,37 @@
+body {
+    background-image: url(../images/shrek-wallpapers-29885-7720048.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    color: white;
+}
+
+.container {
+    color: forestgreen;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 25%;
+    margin-top: 40px;
+    height: 850px;
+    font-family: 'Bad Script', cursive;
+    float: left;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+header {
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+h2 {
+    color: forestgreen;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#answer {
+    font-weight: bolder;
+    font-size: 18px;
+    color: orangered;
+}
